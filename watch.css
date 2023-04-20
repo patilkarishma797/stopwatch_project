@@ -1,0 +1,31 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+body{
+    background-color: rgb(63, 52, 52);
+}
+.container{
+    background-color: black;
+    width: 20%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 61px;
+    text-align: center;
+    color: white;
+    margin-left: 55%;
+    margin-top: 165px;
+    position: absolute;
+    box-shadow: 1px 0px 4px 2px yellow;
+}
+.timedisplay{
+    font-size: large;
+    position: relative;
+}
+.button{
+ font-weight: bolder;
+}
+button:hover{
+    background-color: midnightblue;
+}
